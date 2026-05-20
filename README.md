@@ -24,17 +24,19 @@ This project solves these problems using data analytics and visualization.
 ---
 
 ## 📁 Dataset Information
-- 10,000 customer records
-- Includes:
-  - Credit Score
-  - Income
-  - Transactions
-  - Fraud activity
-  - Default status
-  - Customer demographics
+
+This project uses a publicly available credit card customer dataset for credit risk and behavioral analysis.
+
+It includes 10,000 customer records with features such as:
+- Credit Score
+- Annual Income
+- Transaction Behavior
+- Fraud Transactions
+- Default Status
+- Demographic Information
 
 ### 📊 Dataset Source
-https://www.kaggle.com/datasets/shashanks1202/credit-card-customer-behavior-dataset
+🔗 Kaggle Dataset: https://www.kaggle.com/datasets/aadarshvani/credit-card-dataset-comprehensive
 
 ---
 
