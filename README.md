@@ -54,7 +54,7 @@ It includes 10,000 customer records with features such as:
 - Total Spend: 150M  
 - Average Credit Score: 648.74  
 - Default Rate: 34.51%  
-- Average CLV: 49,968  
+- Average CLV: 45,500  
 - Fraud Customers: 2,828  
 - Average Transactions: 20  
 
